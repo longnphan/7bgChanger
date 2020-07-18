@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  border: 1px solid black;
+  background-color: black;
+  height: 200px;
+  width: 520px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.circle {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 100%;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+#red {
+  background-color: red;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
